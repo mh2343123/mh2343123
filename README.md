@@ -4,8 +4,6 @@ I love building meaningful projects and exploring new technologies to create sol
 
 ![github-header-image](https://github.com/user-attachments/assets/a0927390-edb4-485c-b2da-d21f3ef5561d)
 
-Here's a little about me:
-
 🌟 About Me
 
 🔭 Currently working on something amazing!
