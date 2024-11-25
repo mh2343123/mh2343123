@@ -7,9 +7,13 @@ I love building meaningful projects and exploring new technologies to create sol
 Here's a little about me:
 
 🌟 About Me
+
 🔭 Currently working on something amazing!
+
 🌱 Learning and growing in react and node.js
+
 💡 Studying at Wayne State University 
+
 ⚡ Fun fact: I have owned and oprated multiple businesses!
 
 Check my repositories to get a.
