@@ -15,7 +15,9 @@ Here's a little about me:
 Check my repositories to get a.
 
 🤝 Let’s Connect!
+
 🌐 Portfolio: COMING SOON!
+
 💼 LinkedIn: https://www.linkedin.com/in/mohamad-hazime/
 
 ⭐️ Feel free to explore my projects and connect!
